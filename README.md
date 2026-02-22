@@ -1,6 +1,6 @@
 # Electrical-Power-Subsystem
 
-Definir los Requisitos de la Misión:
+Necesitamos:
  
   Potencia Requerida: Estimar el consumo de energía promedio y pico de todos los subsistemas del satélite.
   
