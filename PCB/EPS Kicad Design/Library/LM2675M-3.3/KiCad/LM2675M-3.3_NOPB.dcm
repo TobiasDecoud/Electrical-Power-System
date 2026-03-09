@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2675M-3.3_NOPB
+D SIMPLE SWITCHER 6.5V to 40V, 1A Low Component Count Step-Down Regulator
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-SFU2/DSASFU100036609.pdf
+$ENDCMP
+#
+#End Doc Library

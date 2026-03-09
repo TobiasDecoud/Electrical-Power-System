@@ -1,0 +1,103 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "86c6bf32-0fdc-4559-bb3e-0b6f31730fee")
+	(paper "A4")
+	(title_block
+		(title "EPS Subsystem")
+		(date "2026-03-09")
+		(comment 4 "By: Danis González, Tobias Decoud")
+	)
+	(lib_symbols)
+	(sheet
+		(at 186.69 78.74)
+		(size 33.02 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7701422e-e09c-45f9-b1e7-bbdc27ba089c")
+		(property "Sheetname" "MPPT"
+			(at 186.69 78.0284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MPPT.kicad_sch"
+			(at 186.69 109.8046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EPS_KiCad_Design"
+				(path "/86c6bf32-0fdc-4559-bb3e-0b6f31730fee"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 111.76 77.47)
+		(size 40.64 33.02)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ac23d778-e7c7-4599-a635-b854b8369412")
+		(property "Sheetname" "Voltage Converter"
+			(at 111.76 76.7584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VoltageConverter.kicad_sch"
+			(at 111.76 111.0746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "EPS_KiCad_Design"
+				(path "/86c6bf32-0fdc-4559-bb3e-0b6f31730fee"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "LT3652IMSE#PBF")(type "KiCad")(uri "${KIPRJMOD}/Library/LM3652IMSE/KiCad/LT3652IMSE#PBF.kicad_sym")(options "")(descr ""))
+  (lib (name "INA138NA_250")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/INA138NA/KiCad/INA138NA_250.kicad_sym")(options "")(descr ""))
+  (lib (name "LM2675M-3_3_NOPB")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/LM2675M-3.3/KiCad/LM2675M-3_3_NOPB.kicad_sym")(options "")(descr ""))
+  (lib (name "LM2675M-5_0_NOPB")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/LM2675M-5.0/KiCad/LM2675M-5_0_NOPB.kicad_sym")(options "")(descr ""))
+  (lib (name "LM2675M-12_NOPB")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/LM2675M-12/KiCad/LM2675M-12_NOPB.kicad_sym")(options "")(descr ""))
+)

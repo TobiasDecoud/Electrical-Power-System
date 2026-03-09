@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "LM3652IMSE_Footprint")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/LM3652IMSE/LM3652IMSE_Footprint")(options "")(descr ""))
+  (lib (name "INA138NA_Footprint")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/INA138NA/INA138NA_Footprint")(options "")(descr ""))
+  (lib (name "LM2675M-3.3_Footprint")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/LM2675M-3.3/LM2675M-3.3_Footprint")(options "")(descr ""))
+  (lib (name "LM2675M-5.0_Footprint")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/LM2675M-5.0/LM2675M-5.0_Footprint")(options "")(descr ""))
+  (lib (name "LM2675M-12_Footprint")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/LM2675M-12/LM2675M-12_Footprint")(options "")(descr ""))
+)
