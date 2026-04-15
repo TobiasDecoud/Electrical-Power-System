@@ -2,7 +2,7 @@
 	(version 20250114)
 	(generator "eeschema")
 	(generator_version "9.0")
-	(uuid "cf471b0d-58ca-4c4a-bf08-feac671732c4")
+	(uuid "18ca12aa-5114-4bb5-8fce-ed50dbbe9905")
 	(paper "A4")
 	(title_block
 		(title "MPPT for a EPS Subsystem")
@@ -1879,36 +1879,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "- Esquema inspirado en una tesis de grado de la Univesidad Politécnica de Catalunya"
-		(exclude_from_sim no)
-		(at 241.554 30.226 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "6692b531-ae47-4b4e-a5b9-529258c13abb")
-	)
-	(text "- Falta dimensionar acorde a la batería y los paneles solares. "
-		(exclude_from_sim no)
-		(at 230.632 27.432 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "e09313ca-628b-42f4-87fe-9efe440c1076")
-	)
-	(text "- El current & power monitor es diferente al usado en la tesis de grado, esto \ndebido a su disponinilidad"
-		(exclude_from_sim no)
-		(at 237.998 34.29 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "f43aee1a-d65d-4078-937f-13478a3edb5b")
-	)
 	(junction
 		(at 161.29 95.25)
 		(diameter 0)
@@ -3001,7 +2971,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0cfc0b20-3c53-43e3-8749-24a9b47208c8")
 		(property "Reference" "IC1"
 			(at 128.27 72.39 0)
@@ -3020,7 +2989,7 @@
 			)
 		)
 		(property "Footprint" "LM3652IMSE_Footprint:SOP65P490X110-13N"
-			(at 142.24 174.93 0)
+			(at 107.442 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3939,7 +3908,7 @@
 			)
 		)
 		(property "Footprint" "INA138NA_Footprint:SOT95P280X145-5N"
-			(at 233.68 181.28 0)
+			(at 233.426 92.964 0)
 			(effects
 				(font
 					(size 1.27 1.27)

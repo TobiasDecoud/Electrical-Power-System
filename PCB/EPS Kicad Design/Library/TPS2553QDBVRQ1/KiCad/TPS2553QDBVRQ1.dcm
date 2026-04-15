@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS2553QDBVRQ1
+D Automotive 2.7V to 5.5V, Precision Adjustable Current-Limit Power Distribution Switch
+K
+F http://www.ti.com/lit/gpn/tps2553-q1
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SD12-01FTG
+D LITTELFUSE - SD12-01FTG - DIODE, AEC-Q101, ESD, 12V, SOD-323
+K
+F http://www.mouser.com/datasheet/2/240/Littelfuse_tvs_diode_array_AQxx_datasheet.pdf-1317342.pdf
+$ENDCMP
+#
+#End Doc Library
