@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SD15-01FTG
+D ESD Suppressors / TVS Diodes 15V 450W AUTO UNI-DIR SOD323
+K
+F http://www.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sd_datasheet.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

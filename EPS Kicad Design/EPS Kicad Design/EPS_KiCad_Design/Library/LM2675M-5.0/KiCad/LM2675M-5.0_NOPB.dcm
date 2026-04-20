@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM2675M-5.0_NOPB
+D SIMPLE SWITCHER 6.5V to 40V, 1A Low Component Count Step-Down Regulator
+K
+F https://www.ti.com/lit/ds/symlink/lm2675.pdf?ts=1593156102088&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DLM2675M-5.0%252FNOPB
+$ENDCMP
+#
+#End Doc Library

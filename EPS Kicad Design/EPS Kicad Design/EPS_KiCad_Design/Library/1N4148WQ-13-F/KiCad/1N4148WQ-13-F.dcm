@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1N4148WQ-13-F
+D Rectifier Diode Small Signal Switching 100V 0.3A 4ns Automotive 2-Pin SOD-123 T/R
+K
+F https://www.diodes.com/part/view/1N4148WQ
+$ENDCMP
+#
+#End Doc Library

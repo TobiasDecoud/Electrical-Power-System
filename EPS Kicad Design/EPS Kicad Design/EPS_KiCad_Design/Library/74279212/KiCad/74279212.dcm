@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74279212
+D WE-CBF SMT EMI Suppression Ferrite Bead Size 1206; Z @ 100 MHz = 150 ; Zmax = 210  @ 280 MHz; IR = 300 mA; RDC = 0.3 
+K
+F https://www.we-online.com/catalog/datasheet/74279212.pdf
+$ENDCMP
+#
+#End Doc Library

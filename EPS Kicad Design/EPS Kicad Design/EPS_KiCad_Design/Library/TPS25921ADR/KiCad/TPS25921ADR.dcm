@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS25921ADR
+D 18V, 1.6A, 90m eFuse with Adjustable +/-2% Accurate Current Limit
+K
+F http://www.ti.com/lit/gpn/tps25921a
+$ENDCMP
+#
+#End Doc Library

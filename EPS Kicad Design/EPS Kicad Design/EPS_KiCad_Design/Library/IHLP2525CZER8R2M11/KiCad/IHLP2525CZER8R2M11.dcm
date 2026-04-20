@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IHLP2525CZER8R2M11
+D Vishay IHLP2525CZ-11 Series Shielded Wire-wound SMD Inductor 8.2 uH +/-20% 5A Idc
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA11/2253392.pdf
+$ENDCMP
+#
+#End Doc Library
