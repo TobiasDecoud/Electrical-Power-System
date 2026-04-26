@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TS40-66-43-BK-160-SMT-TR
+D 6 x 6 mm, 4.3 mm Actuator Height Off PCB, 160 gf, Black, Surface Mount, SPST, Tactile Switch , 0.05A @ 12VDC , -20C ~ 70C
+K
+F https://www.sameskydevices.com/product/resource/ts40.pdf
+$ENDCMP
+#
+#End Doc Library

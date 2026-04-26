@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRR4528A-3R9Y
+D 3.9 H Shielded Inductor 2.8 A 37mOhm Max Nonstandard, Corner Terminals
+K
+F https://www.digikey.ph/en/products/detail/bourns-inc/SRR4528A-3R9Y/9349817
+$ENDCMP
+#
+#End Doc Library

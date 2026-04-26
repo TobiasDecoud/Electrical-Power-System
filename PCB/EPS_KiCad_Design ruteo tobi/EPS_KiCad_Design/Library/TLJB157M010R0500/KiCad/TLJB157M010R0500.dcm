@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLJB157M010R0500
+D AVX 150uF Solid Electrolytic Tantalum Capacitor, 10 V dc +/-20%, TLJ Series
+K
+F http://datasheets.avx.com/TLJ.pdf
+$ENDCMP
+#
+#End Doc Library

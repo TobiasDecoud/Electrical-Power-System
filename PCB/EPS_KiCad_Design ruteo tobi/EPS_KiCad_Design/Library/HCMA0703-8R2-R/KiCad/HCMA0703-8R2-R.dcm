@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HCMA0703-8R2-R
+D 8.2 H Shielded Drum Core, Wirewound Inductor 4 A 68mOhm Max Nonstandard
+K
+F https://www.eaton.com/content/dam/eaton/products/electronic-components/resources/data-sheet/eaton-hcma0703-automotive-high-current-power-inductors-data-sheet.pdf
+$ENDCMP
+#
+#End Doc Library

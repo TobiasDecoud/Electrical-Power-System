@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA226AIDGST
+D 36-V, Bi-Directional, Ultra-High Accuracy, Low-/High-Side, I2C Out Current/Power Monitor w/ Alert
+K
+F http://www.ti.com/lit/gpn/ina226
+$ENDCMP
+#
+#End Doc Library

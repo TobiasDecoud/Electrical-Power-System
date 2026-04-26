@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SD05-01FTG
+D ESD Suppressors / TVS Diodes 5V 450W 30A Unidirectional
+K
+F https://ms.componentsearchengine.com/Datasheets/2/SD05-01FTG.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMEG4050CEPX
+D 40 V, 5 A low VF Schottky barrier rectifier
+K
+F https://assets.nexperia.com/documents/data-sheet/PMEG4050CEP.pdf
+$ENDCMP
+#
+#End Doc Library

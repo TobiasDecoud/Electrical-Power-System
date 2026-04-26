@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRR5018-3R9Y
+D Power Inductors - SMD 3.9uH 30% SMD 5018
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRR5018.pdf
+$ENDCMP
+#
+#End Doc Library
