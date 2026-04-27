@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_14916065"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2026-02-28-05:36:15)
+    (utime 2026-02-28-05:36:15)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "PMEG4030ER-QX")
+)
+
+
+(pinAssign "ECS_14916065"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2026-02-28-05:36:15)
+    (utime 2026-02-28-05:36:15)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_14916065")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "PMEG4030ER-QX")
+)
+
+
+(part "PMEG4030ER-QX"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2026-02-28-05:36:15)
+    (utime 2026-02-28-05:36:15)
+    (packageRef "PMEG4030ER-QX")
+    (pinAssignRef "ECS_14916065")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "IC")
+    (property "description" "Schottky Diodes & Rectifiers RECT 40V   3A    SM  SCHOTTKY")
+    (property "Mouser_Part_Number" "771-PMEG4030ER-QX")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/PMEG4030ER-QX?qs=e8oIoAS2J1S%2FszJOn2UcQA%3D%3D")
+    (property "Manufacturer_Name" "Nexperia")
+    (property "Manufacturer_Part_Number" "PMEG4030ER-QX")
+    (property "Datasheet_Link" "https://assets.nexperia.com/documents/data-sheet/PMEG4030ER-Q.pdf")
+    (property "compAreaTopHeight" 1.1)
+)
+
+

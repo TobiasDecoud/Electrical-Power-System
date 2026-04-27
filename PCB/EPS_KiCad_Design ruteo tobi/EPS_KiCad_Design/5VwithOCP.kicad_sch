@@ -2915,6 +2915,16 @@
 		)
 		(uuid "ffc8611d-a522-48a1-b2fc-96fac77cffad")
 	)
+	(label "SW"
+		(at 101.6 146.05 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "06d0dccb-7e17-4718-829d-331cd5e53474")
+	)
 	(label "IN2-"
 		(at 142.24 140.97 90)
 		(effects
@@ -2954,6 +2964,16 @@
 			(justify left bottom)
 		)
 		(uuid "f857cc07-8434-4c18-9811-2fa190f6fed5")
+	)
+	(label "ILIM"
+		(at 106.68 52.07 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f9269e01-718c-49df-9158-84bd2c9a62ed")
 	)
 	(global_label "SDA"
 		(shape input)

@@ -1,0 +1,105 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "PMEG4030ER-QX"
+   (description "Schottky Diodes & Rectifiers RECT 40V   3A    SM  SCHOTTKY")
+   (family "ANA")
+   (package "SODFL3517X110N")
+   (attribute "Datasheet Link" "https://assets.nexperia.com/documents/data-sheet/PMEG4030ER-Q.pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Mouser Part Number" "771-PMEG4030ER-QX")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Nexperia/PMEG4030ER-QX?qs=e8oIoAS2J1S%2FszJOn2UcQA%3D%3D")
+   (attribute "Manufacturer_Name" "Nexperia")
+   (attribute "Manufacturer_Part_Number" "PMEG4030ER-QX")
+   (gate
+    (symbol "PMEG4030ER-QX")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "PMEG4030ER-QX"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 600 100) (pt 600 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SODFL3517X110N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -2.21 1.1)
+      (pt 2.21 1.1)
+      (pt 2.21 -1.1)
+      (pt -2.21 -1.1)
+      (pt -2.21 1.1))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.3 0.85)
+      (pt 1.3 0.85)
+      (pt 1.3 -0.85)
+      (pt -1.3 -0.85)
+      (pt -1.3 0.85))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1.3 0.39)
+      (pt -0.84 0.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -2.06 0.85)
+      (pt 1.3 0.85))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt -1.3 -0.85)
+      (pt 1.3 -0.85))))
+   (leg 1 (pt -1.6 0) (padstack 0))
+   (leg 2 (pt 1.6 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.92 1.08 0 0 90))
+   )
+   (model "PMEG4030ER-QX.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

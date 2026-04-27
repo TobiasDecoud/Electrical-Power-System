@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PMEG4030ER-QX
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Diode Flat Lead
+PinCount=2
+Version=3.1
+Released=2026-02-28 05:36:15
+Downloaded=2026-04-26 22:49:00
+3D=Y

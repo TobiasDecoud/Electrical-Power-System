@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "PMEG4030ER-QX"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2026-01-07-07:34:08)
+    (mountForm default
+        (footprintRef "SODFL3517X110N")
+        (spec "System")
+    )
+)

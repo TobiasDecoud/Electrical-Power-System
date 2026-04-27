@@ -29,4 +29,5 @@
   (lib (name "TAJD107K016SNJV")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/TAJD107K016SNJV/KiCad/TAJD107K016SNJV.kicad_sym")(options "")(descr ""))
   (lib (name "TLJB157M010R0500")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/TLJB157M010R0500/KiCad/TLJB157M010R0500.kicad_sym")(options "")(descr ""))
   (lib (name "501568-0207")(type "KiCad")(uri "C:/Users/hp/OneDrive/Escritorio/8vo Semestre/Introducción a la Ingeniería Satelital/Subsystems/EPS/EPS Kicad Design/Library/501568-0207/KiCad/501568-0207.kicad_sym")(options "")(descr ""))
+  (lib (name "PMEG4030ER-QX")(type "KiCad")(uri "${KIPRJMOD}/Library/PMEG4030ER-QX/KiCad/PMEG4030ER-QX.kicad_sym")(options "")(descr ""))
 )

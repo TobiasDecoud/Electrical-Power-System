@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PMEG4030ER-QX
+D Schottky Diodes & Rectifiers RECT 40V   3A    SM  SCHOTTKY
+K
+F https://assets.nexperia.com/documents/data-sheet/PMEG4030ER-Q.pdf
+$ENDCMP
+#
+#End Doc Library

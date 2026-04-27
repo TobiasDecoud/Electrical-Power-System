@@ -1,0 +1,16 @@
+.PMEG4030ER-QX :1 ;Schottky Diodes & Rectifiers RECT 40V   3A    SM  SCHOTTKY
+SODFL3517X110N
+*STM IC
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN PMEG4030ER-QX
+~!Mouser Part Number (771-PMEG4030ER-QX)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Nexperia/PMEG4030ER-QX?qs=e8oIoAS2J1S%2FszJOn2UcQA%3D%3D)
+~!Manufacturer_Name (Nexperia)
+~!Manufacturer_Part_Number (PMEG4030ER-QX)
+~!Link Datasheet (https://assets.nexperia.com/documents/data-sheet/PMEG4030ER-Q.pdf)
+~!Height (1.1mm)
+~!3D_Model (PMEG4030ER-QX)
+PMEG4030ER-QX
+1.1!U 2.1!U 

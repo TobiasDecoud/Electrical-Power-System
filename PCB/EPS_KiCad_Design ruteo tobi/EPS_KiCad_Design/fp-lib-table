@@ -31,4 +31,5 @@
   (lib (name "SRP4020TA-4R7M_Footprint")(type "KiCad")(uri "${KIPRJMOD}/Library/SRP4020TA-4R7M/SRP4020TA-4R7M_Footprint")(options "")(descr ""))
   (lib (name "501568-0207_Footprint")(type "KiCad")(uri "${KIPRJMOD}/Library/501568-0207/501568-0207_Footprint")(options "")(descr ""))
   (lib (name "62000411722_Footprint")(type "KiCad")(uri "${KIPRJMOD}/Library/62000411722/62000411722_Footprint")(options "")(descr ""))
+  (lib (name "PMEG")(type "KiCad")(uri "${KIPRJMOD}/Library/PMEG4030ER-QX/KiCad/PMEG.pretty")(options "")(descr ""))
 )

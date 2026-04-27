@@ -2951,6 +2951,16 @@
 		)
 		(uuid "fb180849-a857-4f72-8034-d9550bb688d3")
 	)
+	(label "ILIM"
+		(at 95.25 53.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "663d81af-d588-46ee-afce-361ded72f15e")
+	)
 	(label "IN3-"
 		(at 135.89 133.35 90)
 		(effects
@@ -2960,6 +2970,16 @@
 			(justify left bottom)
 		)
 		(uuid "80360500-eb9a-49bb-90ef-f7ed7700ee47")
+	)
+	(label "SW"
+		(at 93.98 138.43 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a78834a3-1b39-483c-8e03-76f292e5f6fe")
 	)
 	(label "IN3+"
 		(at 123.19 133.35 90)
