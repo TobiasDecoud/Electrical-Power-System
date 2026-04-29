@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ASPI_0628_3R9M_T1'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "ABRACON", "ASPI-0628-3R9M-T1" (!) = "", "ASPI0628150MT1", "Other", "815-ASPI-0628-3R9MT1", "https://www.mouser.co.uk/ProductDetail/ABRACON/ASPI-0628-3R9M-T1?qs=7Oetya%252B4D2Cz7OuGoDTYww%3D%3D", "3.9 H Shielded Drum Core, Wirewound Inductor 3 A 31mOhm Nonstandard", "https://abracon.com/Magnetics/new/ASPI-0628.pdf", "2.8 mm"
+END_PART
+
+END.

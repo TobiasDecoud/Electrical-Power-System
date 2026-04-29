@@ -3835,7 +3835,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SRR4528A-3R9Y_Footprint:SRR4528A3R9Y"
+		(property "Footprint" "ASPI:ASPI0628150MT1"
 			(at 106.68 137.16 0)
 			(effects
 				(font

@@ -1,0 +1,16 @@
+.ASPI-0628-3R9M-T1 :1 ;3.9 H Shielded Drum Core, Wirewound Inductor 3 A 31mOhm Nonstandard
+ASPI0628150MT1
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN ASPI-0628-3R9M-T1
+~!Mouser Part Number (815-ASPI-0628-3R9MT1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/ABRACON/ASPI-0628-3R9M-T1?qs=7Oetya%252B4D2Cz7OuGoDTYww%3D%3D)
+~!Manufacturer_Name (ABRACON)
+~!Manufacturer_Part_Number (ASPI-0628-3R9M-T1)
+~!Link Datasheet (https://abracon.com/Magnetics/new/ASPI-0628.pdf)
+~!Height (2.8mm)
+~!3D_Model (ASPI-0628-3R9M-T1)
+ASPI-0628-3R9M-T1
+1.1!U 2.1!U 

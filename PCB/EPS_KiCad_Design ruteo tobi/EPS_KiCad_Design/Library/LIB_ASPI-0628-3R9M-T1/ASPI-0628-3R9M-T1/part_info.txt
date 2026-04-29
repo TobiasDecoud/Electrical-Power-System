@@ -1,0 +1,9 @@
+Manufacturer=ABRACON
+PartNumber=ASPI-0628-3R9M-T1
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=4.3
+Released=2023-05-02 07:12:17
+Downloaded=2026-04-29 01:19:10
+3D=Y

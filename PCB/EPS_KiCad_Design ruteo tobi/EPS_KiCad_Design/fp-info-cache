@@ -1,4 +1,4 @@
-27274113806432601
+27275891228399815
 501568-0207_Footprint
 5015680207
 501568-0207-2
@@ -48,6 +48,13 @@ Integrated Circuit
 0
 6
 6
+ASPI
+ASPI0628150MT1
+ASPI-0628-150M-T1-1
+Inductor
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)

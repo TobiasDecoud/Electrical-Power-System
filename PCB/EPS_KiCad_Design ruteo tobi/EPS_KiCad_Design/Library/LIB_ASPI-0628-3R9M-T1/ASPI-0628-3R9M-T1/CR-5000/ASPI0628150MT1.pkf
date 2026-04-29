@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "ASPI0628150MT1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "ASPI0628150MT1")
+        (spec "default")
+    )
+)

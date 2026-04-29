@@ -5832,7 +5832,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2pF"
+		(property "Value" "6.8pF"
 			(at 40.64 55.626 90)
 			(effects
 				(font
@@ -6495,7 +6495,7 @@
 				)
 			)
 		)
-		(property "Value" "8.2pF"
+		(property "Value" "6.8pF"
 			(at 40.64 33.782 90)
 			(effects
 				(font

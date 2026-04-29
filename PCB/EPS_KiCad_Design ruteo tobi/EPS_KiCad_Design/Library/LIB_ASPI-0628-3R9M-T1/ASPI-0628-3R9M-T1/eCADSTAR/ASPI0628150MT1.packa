@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ASPI-0628-3R9M-T1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2023-05-02-07:12:17)
+    (mountForm default
+        (footprintRef "ASPI0628150MT1")
+        (spec "System")
+    )
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ASPI-0628-3R9M-T1
+D 3.9 H Shielded Drum Core, Wirewound Inductor 3 A 31mOhm Nonstandard
+K
+F https://abracon.com/Magnetics/new/ASPI-0628.pdf
+$ENDCMP
+#
+#End Doc Library
