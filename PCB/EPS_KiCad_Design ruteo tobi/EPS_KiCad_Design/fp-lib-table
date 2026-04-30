@@ -33,4 +33,5 @@
   (lib (name "62000411722_Footprint")(type "KiCad")(uri "${KIPRJMOD}/Library/62000411722/62000411722_Footprint")(options "")(descr ""))
   (lib (name "PMEG")(type "KiCad")(uri "${KIPRJMOD}/Library/PMEG4030ER-QX/KiCad/PMEG.pretty")(options "")(descr ""))
   (lib (name "ASPI")(type "KiCad")(uri "${KIPRJMOD}/Library/LIB_ASPI-0628-3R9M-T1/ASPI-0628-3R9M-T1/KiCad/ASPI.pretty")(options "")(descr ""))
+  (lib (name "TSM_Connector")(type "KiCad")(uri "${KIPRJMOD}/Library/TSM-105-01-L-SV/KiCad")(options "")(descr ""))
 )

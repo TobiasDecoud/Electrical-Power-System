@@ -1,0 +1,16 @@
+.TSM-105-01-L-SV :1 ;Samtec TSM Series, 2.54mm Pitch 5 Way 1 Row Straight PCB Header, Solder Termination, 7A
+TSM10501LSV
+*STM J
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5"
+*MXP 5
+*DFN TSM-105-01-L-SV
+~!Mouser Part Number (200-TSM10501LSV)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Samtec/TSM-105-01-L-SV?qs=FESYatJ8odLyhHnoWk7Xog%3D%3D)
+~!Manufacturer_Name (SAMTEC)
+~!Manufacturer_Part_Number (TSM-105-01-L-SV)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/dk/DKDS40/DSANUWW0019078.pdf)
+~!Height (9.65mm)
+~!3D_Model (TSM-105-01-L-SV)
+TSM-105-01-L-SV
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

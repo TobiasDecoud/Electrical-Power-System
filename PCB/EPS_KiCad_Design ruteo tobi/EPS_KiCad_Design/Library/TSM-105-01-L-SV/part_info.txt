@@ -1,0 +1,9 @@
+Manufacturer=SAMTEC
+PartNumber=TSM-105-01-L-SV
+PartCategory=Connector
+PackageCategory=Other
+PinCount=5
+Version=1.6
+Released=2020-06-25 22:32:31
+Downloaded=2026-04-30 23:09:31
+3D=Y
