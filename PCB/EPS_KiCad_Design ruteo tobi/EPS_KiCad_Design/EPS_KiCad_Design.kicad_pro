@@ -60,26 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "silk_over_copper|147992500|93044318|a752e855-9822-42ea-86f5-f4960299a1bd|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|158804318|121200000|d8b4b2c7-230b-40bc-9008-45e814644d53|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|165679999|92570984|92af0efa-8497-4408-a423-b67a4159913e|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|182790256|137448214|21dd0e2f-0802-4ee5-9eee-dec6dec04f41|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|183181160|135334819|c1cb0c62-be2e-48a8-8672-56b2486a2937|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
           "silk_overlap|121410000|109485000|0d4ea672-8a7a-49ea-b411-272c398e2e8a|2ea153c0-3633-4449-99a7-04709060a828",
           ""
         ],
@@ -527,9 +507,19 @@
         "priority": 2147483647,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
-        "via_diameter": 0.6,
+        "via_diameter": 0.7,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "clearance": 0.36,
+        "name": "I2C",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.12,
+        "via_diameter": 0.7,
+        "via_drill": 0.4
       }
     ],
     "meta": {
@@ -537,7 +527,28 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "I2C",
+        "pattern": "SDA OBC"
+      },
+      {
+        "netclass": "I2C",
+        "pattern": "SCL OBC"
+      },
+      {
+        "netclass": "I2C",
+        "pattern": "ALERT"
+      },
+      {
+        "netclass": "I2C",
+        "pattern": "SDA"
+      },
+      {
+        "netclass": "I2C",
+        "pattern": "SCL"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {

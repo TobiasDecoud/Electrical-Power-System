@@ -1,0 +1,6 @@
+(version 1)
+
+(rule "Reducir_Espacio_Vias_I2C"
+    (constraint clearance (min 0.2mm))
+    (condition "A.insideArea('Exclusion_Clerance_I2C')"))
+

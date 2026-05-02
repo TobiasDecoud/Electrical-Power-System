@@ -1,4 +1,4 @@
-27275891228399815
+27277597331144994
 501568-0207_Footprint
 5015680207
 501568-0207-2
@@ -100988,6 +100988,13 @@ Switch
 0
 4
 4
+TSM_Connector
+TSM10501LSV
+TSM-105-01-L-SV-2
+Connector
+0
+5
+5
 TerminalBlock
 TerminalBlock_MaiXu_MX126-5.0-02P_1x02_P5.00mm
 terminal block MaiXu MX126-5.0-02P, 2 pins, pitch 5mm, size 10.5x7.8mm, drill diameter 1.3mm, pad diameter 2.8mm, https://www.lcsc.com/datasheet/lcsc_datasheet_2309150913_MAX-MX126-5-0-03P-GN01-Cu-S-A_C5188435.pdf, script-generated using https://gitlab.com/kicad/libraries/kicad-footprint-generator/-/tree/master/scripts/TerminalBlock_MaiXu
