@@ -60,6 +60,34 @@
       ],
       "drc_exclusions": [
         [
+          "lib_footprint_mismatch|144960000|59790000|732d5e5e-72cf-4dad-96b3-268c068f756e|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|163710568|123960000|d8b4b2c7-230b-40bc-9008-45e814644d53|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|171801667|134055000|7963f1a8-6941-4d9d-8fd9-1db696813275|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_overlap|109575000|130725000|00e39386-ce45-47fb-aa5b-b7f147fe4816|fb73838c-d00f-438a-b206-b81992b7a16c",
+          ""
+        ],
+        [
+          "silk_overlap|109654318|130684497|f1434ae3-5a67-4d31-908f-fc6fb3019b80|fb73838c-d00f-438a-b206-b81992b7a16c",
+          ""
+        ],
+        [
+          "silk_overlap|109675000|130725000|ce259e2b-1a6c-4f54-959c-b132d9d43b2a|fb73838c-d00f-438a-b206-b81992b7a16c",
+          ""
+        ],
+        [
+          "silk_overlap|109675000|130725000|f26dca40-bd14-4add-9889-a58b15620ecc|fb73838c-d00f-438a-b206-b81992b7a16c",
+          ""
+        ],
+        [
           "silk_overlap|121410000|109485000|0d4ea672-8a7a-49ea-b411-272c398e2e8a|2ea153c0-3633-4449-99a7-04709060a828",
           ""
         ],
@@ -73,6 +101,42 @@
         ],
         [
           "silk_overlap|121490000|109460000|38f61f92-c744-49b4-8776-7acf5547ad17|e63797c0-1af5-46e0-b24a-9338ae125a8c",
+          ""
+        ],
+        [
+          "silk_overlap|142975000|130220000|466012e6-4557-4bdb-bf36-97380455dfa1|8cfcff5a-6a8c-4dff-b01a-a9b8bf2492f7",
+          ""
+        ],
+        [
+          "silk_overlap|142975000|130220000|8cfcff5a-6a8c-4dff-b01a-a9b8bf2492f7|a6e04742-275f-48d7-9eeb-387e9fef599f",
+          ""
+        ],
+        [
+          "silk_overlap|143024912|130267039|64d482c4-cbf4-4b1f-ab00-24353c6801fa|8cfcff5a-6a8c-4dff-b01a-a9b8bf2492f7",
+          ""
+        ],
+        [
+          "silk_overlap|143078809|130263842|8cfcff5a-6a8c-4dff-b01a-a9b8bf2492f7|a99de7fd-4ded-47ff-9e07-802c9a9a9ca9",
+          ""
+        ],
+        [
+          "silk_overlap|168000000|133040000|4fe2cae9-2da4-4fcc-8b86-9f6a35ba4d4d|d97f537a-0f76-4177-b139-7a7b9770dd6d",
+          ""
+        ],
+        [
+          "silk_overlap|173050000|133614318|115fa3f4-701f-4c57-ab53-5885a336e041|7963f1a8-6941-4d9d-8fd9-1db696813275",
+          ""
+        ],
+        [
+          "silk_overlap|178150000|133040000|2b7106d2-cf95-4ab8-857d-3681b8c03952|4f2fcc2b-20b8-4aac-842a-0145b5a5bea0",
+          ""
+        ],
+        [
+          "text_height|172600000|141961905|fe514bd1-00d3-4593-bcd8-9b93d59f0a8b|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_height|175150000|141961905|7a1b96a2-b43d-4d05-9b39-3bd8e810ef84|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -513,9 +577,19 @@
       },
       {
         "clearance": 0.36,
-        "name": "I2C",
+        "name": "Digital_Signals",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.12,
+        "via_diameter": 0.7,
+        "via_drill": 0.4
+      },
+      {
+        "clearance": 0.36,
+        "name": "I2C",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.12,
         "via_diameter": 0.7,
@@ -547,6 +621,38 @@
       {
         "netclass": "I2C",
         "pattern": "SCL"
+      },
+      {
+        "netclass": "Digital_Signals",
+        "pattern": "GPIO3"
+      },
+      {
+        "netclass": "Digital_Signals",
+        "pattern": "GPIO4"
+      },
+      {
+        "netclass": "Digital_Signals",
+        "pattern": "GPIO1"
+      },
+      {
+        "netclass": "Digital_Signals",
+        "pattern": "GPIO2"
+      },
+      {
+        "netclass": "Digital_Signals",
+        "pattern": "GPIO5"
+      },
+      {
+        "netclass": "Digital_Signals",
+        "pattern": "GPIO6"
+      },
+      {
+        "netclass": "Digital_Signals",
+        "pattern": "GPIO7"
+      },
+      {
+        "netclass": "Digital_Signals",
+        "pattern": "GPIO8"
       }
     ]
   },
@@ -555,7 +661,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "fabrication_files_EPS",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

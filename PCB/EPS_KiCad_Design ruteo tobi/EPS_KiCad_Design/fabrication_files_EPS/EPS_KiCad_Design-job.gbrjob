@@ -1,0 +1,175 @@
+{
+  "Header": {
+    "GenerationSoftware": {
+      "Vendor": "KiCad",
+      "Application": "Pcbnew",
+      "Version": "9.0.7"
+    },
+    "CreationDate": "2026-05-02T21:02:55-03:00"
+  },
+  "GeneralSpecs": {
+    "ProjectId": {
+      "Name": "EPS_KiCad_Design",
+      "GUID": "4550535f-4b69-4436-9164-5f4465736967",
+      "Revision": "rev?"
+    },
+    "Size": {
+      "X": 90.05,
+      "Y": 90.25
+    },
+    "LayerNumber": 4,
+    "BoardThickness": 1.5742,
+    "Finish": "None"
+  },
+  "DesignRules": [
+    {
+      "Layers": "Outer",
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.12,
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
+    },
+    {
+      "Layers": "Inner",
+      "PadToPad": 0.2,
+      "PadToTrack": 0.2,
+      "TrackToTrack": 0.2,
+      "MinLineWidth": 0.12,
+      "TrackToRegion": 0.2,
+      "RegionToRegion": 0.2
+    }
+  ],
+  "FilesAttributes": [
+    {
+      "Path": "EPS_KiCad_Design-F_Cu.gbr",
+      "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EPS_KiCad_Design-In1_Cu.gbr",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EPS_KiCad_Design-In2_Cu.gbr",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EPS_KiCad_Design-B_Cu.gbr",
+      "FileFunction": "Copper,L4,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EPS_KiCad_Design-F_Paste.gbr",
+      "FileFunction": "SolderPaste,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EPS_KiCad_Design-B_Paste.gbr",
+      "FileFunction": "SolderPaste,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EPS_KiCad_Design-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EPS_KiCad_Design-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "EPS_KiCad_Design-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "EPS_KiCad_Design-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "EPS_KiCad_Design-Edge_Cuts.gbr",
+      "FileFunction": "Profile",
+      "FilePolarity": "Positive"
+    }
+  ],
+  "MaterialStackup": [
+    {
+      "Type": "Legend",
+      "Name": "Top Silk Screen"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Top Solder Paste"
+    },
+    {
+      "Type": "SolderMask",
+      "Color": "Green",
+      "Thickness": 0.01,
+      "Name": "Top Solder Mask"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.035,
+      "Name": "F.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 0.0994,
+      "Material": "FR4",
+      "Name": "F.Cu/In1.Cu",
+      "Notes": "Type: dielectric layer 1 (from F.Cu to In1.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0152,
+      "Name": "In1.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 1.265,
+      "Material": "FR4",
+      "Name": "In1.Cu/In2.Cu",
+      "Notes": "Type: dielectric layer 2 (from In1.Cu to In2.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0152,
+      "Name": "In2.Cu"
+    },
+    {
+      "Type": "Dielectric",
+      "Color": "R109G116B75",
+      "Thickness": 0.0994,
+      "Material": "FR4",
+      "Name": "In2.Cu/B.Cu",
+      "Notes": "Type: dielectric layer 3 (from In2.Cu to B.Cu)"
+    },
+    {
+      "Type": "Copper",
+      "Thickness": 0.0,
+      "Name": "B.Cu"
+    },
+    {
+      "Type": "SolderMask",
+      "Color": "Green",
+      "Thickness": 0.035,
+      "Name": "Bottom Solder Mask"
+    },
+    {
+      "Type": "SolderPaste",
+      "Name": "Bottom Solder Paste"
+    },
+    {
+      "Type": "Legend",
+      "Name": "Bottom Silk Screen"
+    }
+  ]
+}
